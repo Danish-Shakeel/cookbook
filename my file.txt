@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-
-=======
-Added some text to the existing NewFile
->>>>>>> NewWork
+fcfgcfgcxfgcgcg
